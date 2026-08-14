@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0014,50:5d1f7e,100:9d4edd&text=ICARO%20COUTINHO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=System%20Awakened&descAlignY=60"/>
 
-<img src="[https://readme-typing-svg.demolab.com?](https://br.pinterest.com/pin/4433299628514593/)font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=d77dff&center=true&vCenter=true&width=1000&lines=⚔️+SYSTEM+INITIALIZING...;🎯+AI+ENGINEER+IN+PROGRESS;⚡+FULL+STACK+DEVELOPER;🚀+IOT+%7C+FIRMWARE+%7C+BACKEND;🧠+LEVELING+UP+DAILY"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=d77dff&center=true&vCenter=true&width=1000&lines=⚔️+SYSTEM+INITIALIZING...;🎯+AI+ENGINEER+IN+PROGRESS;⚡+FULL+STACK+DEVELOPER;🚀+IOT+%7C+FIRMWARE+%7C+BACKEND;🧠+LEVELING+UP+DAILY"/>
 
 </div>
 
@@ -85,8 +85,6 @@ const Icaro = {
 
     tools: [
       "Git/GitHub",
-      "Docker",
-      "Linux",
       "VS Code",
       "Figma",
       "Firebase/Supabase"
@@ -159,7 +157,7 @@ NEXT MILESTONE: AI Engineer Certification (+17-22 months)
 <img src="https://skillicons.dev/icons?i=cpp,arduino&perline=5"/>
 
 ### Infrastructure
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,firebase&perline=5"/>
+<img src="https://skillicons.dev/icons?i=git,github,firebase&perline=5"/>
 
 ### Design & Productivity
 <img src="https://skillicons.dev/icons?i=figma,vscode&perline=5"/>
@@ -250,7 +248,7 @@ FINAL BOSS: Production AI System Deployment
     
 [3] Content Creation Strategy
     └─ Status: 🔵 Research Phase
-    └─ Goal: Launch THEMODERNMIND global content platform
+    └─ Goal: Launch THE MODERN MIND global content platform
     
 [4] Entrepreneurship & Side Hustle
     └─ Status: 🟡 Planning
