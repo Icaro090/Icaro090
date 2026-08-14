@@ -35,7 +35,7 @@ CURRENT STATUS: ASCENDING 🚀
 ```javascript
 const Icaro = {
   
-  name: "Icaro Diniz",
+  name: "Icaro Coutinho",
   age: 19,
   location: "Cuiabá, MT - Brazil 🇧🇷",
   rank: "Gold Tier (Rising)",
