@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0014,50:5d1f7e,100:9d4edd&text=ICARO%20COUTINHO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=System%20Awakened&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=d77dff&center=true&vCenter=true&width=1000&lines=⚔️+SYSTEM+INITIALIZING...;🎯+AI+ENGINEER+IN+PROGRESS;⚡+FULL+STACK+DEVELOPER;🚀+IOT+%7C+FIRMWARE+%7C+BACKEND;🧠+LEVELING+UP+DAILY"/>
+<img src="[https://readme-typing-svg.demolab.com?](https://br.pinterest.com/pin/4433299628514593/)font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=d77dff&center=true&vCenter=true&width=1000&lines=⚔️+SYSTEM+INITIALIZING...;🎯+AI+ENGINEER+IN+PROGRESS;⚡+FULL+STACK+DEVELOPER;🚀+IOT+%7C+FIRMWARE+%7C+BACKEND;🧠+LEVELING+UP+DAILY"/>
 
 </div>
 
@@ -105,10 +105,10 @@ const Icaro = {
 
 | Quest | Status | Description | Stack |
 |-------|--------|-------------|-------|
-| 🎯 **ClassPulse** | 🔴 In Progress | Real-time classroom feedback system for SENAC-MT | ESP32, FastAPI, React |
-| 🌱 **Vertech** | ✅ Completed | Smart vertical greenhouse with IoT sensors | ESP32, Environmental Sensors, Dashboard |
+| 🎯 **ClassPulse** | ✅ Completed | Real-time classroom feedback system for SENAC-MT | ESP32, FastAPI, React |
+| 🌱 **Vertech** | 🔴 In Progress | Smart vertical greenhouse with IoT sensors | ESP32, Environmental Sensors, Dashboard |
 | 🎓 **SkillsConect** | ✅ Completed | AI-powered job recommendation platform | FastAPI, React, Ollama, LLMs |
-| 🎮 **Folclore Terror** | ✅ Completed | Multiplayer horror game (Brazilian Folklore) | Game Design, Specs |
+| 🎮 **Folclore Terror** | 🔴 In Progress | Multiplayer horror game (Brazilian Folklore) | Game Design, Specs |
 | 📚 **SIG API Integration** | ✅ Completed | Internal SENAC systems automation | Python, API Scripts |
 | 💼 **Desafio Profissional** | ✅ Completed | Academic project on citizenship & inclusion | Academic Writing |
 | 🎬 **The Modern Mind** | 🔵 Planning | AI content creation strategy (Global audience) | AI, Content Strategy |
