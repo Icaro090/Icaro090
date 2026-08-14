@@ -1,20 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:0284c7,100:3b82f6&text=ICARO%20DEVELOPER&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:090014,40:4c1d95,80:7e22ce,100:a855f7&text=ICARO%20DEVELOPER&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;SOFTWARE+ENGINEERING+%7C+ADS;FRONTEND+%7C+C%23+%7C+PYTHON+%7C+C%2B%2B;AI+%2B+GREEN+LOGISTICS+%7C+CYBERSECURITY;WELCOME+TO+MY+CODE+UNIVERSE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2300&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=%5BSYSTEM+BOOTING...%5D;MONARCH+OF+CODE+%7C+HUNTER+STATUS%3A+MAX;FULL+STACK+%7C+C%23+%7C+C%2B%2B+%7C+PYTHON+%7C+REACT;AI+%2B+GREEN+LOGISTICS+%7C+ROBOTICS+%7C+CYBERSECURITY;WELCOME+TO+MY+CODE+UNIVERSE"/>
 
 </div>
 
 ---
 
-## 🤖 ICARO AI CORE
+## 🤖 SYSTEM STATUS [SOLO CORE]
 
-╭────────────────────────────╮
-│      ICARO SYSTEM v2.0     │
-╰────────────────────────────╯
+```
+╭───────────────────────────────────────────────╮
+│             SYSTEM INTERFACE v3.0             │
+│        [ PLAYER: ICARO | CLASS: DEVELOPER ]   │
+╰───────────────────────────────────────────────╯
 
-Initializing system...
+[INFO] Initializing system core...
+[INFO] Loading hunter profile [ICARO]...
+[INFO] Class: Monarch of Code
+[INFO] Level: MAX
 
 ████████████████████ 100%
 
@@ -25,63 +30,36 @@ Initializing system...
 
 STATUS: ONLINE 🚀
 
-
 const Icaro = {
 
   name: "Icaro",
 
-  role: "Systems Analysis & Software Developer",
+  class: "Full Stack Developer & Systems Analyst",
 
   location: "Cuiabá, MT - Brazil 🇧🇷",
 
-  stack: {
-    frontend: [
-      "HTML5",
-      "CSS3",
-      "JavaScript",
-      "TypeScript",
-      "React"
-    ],
-
-    backend_and_languages: [
-      "C#",
-      "C++",
-      "Python",
-      "Node.js"
-    ],
-
-    hardware_and_iot: [
-      "ESP32",
-      "Arduino",
-      "Electronics"
-    ],
-
-    cybersecurity: [
-      "Network Security",
-      "Incident Response",
-      "Vulnerability Analysis"
-    ]
+  stats: {
+    frontend: ["HTML5", "CSS3", "JavaScript", "TypeScript", "React"],
+    backend: ["C#", "C++", "Python", "Node.js"],
+    hardware_iot: ["ESP32", "Arduino", "Electronics"],
+    cybersecurity: ["Network Security", "Incident Response", "Vulnerability Analysis"],
+    logistics_ai: ["LogiVerde Startup", "Route Optimization", "Machine Learning"]
   },
 
-  projects: {
-    startup: "LogiVerde (AI-driven Green Logistics)",
-    automation: "IoT Systems & Process Management"
-  },
+  tools: ["Git", "GitHub", "VS Code", "Figma", "Docker"],
 
-  passion:
-  "Building smart solutions with AI, optimized logistics and robust code 🚀"
+  quest: "Leveling up continuously, building AI solutions & mastering the code domain ⚔️"
 
 }
 
-> Loading objectives...
+> Loading System Quests...
 
-[██████████] ADS Graduation & Core CS Concepts
+[██████████] ADS Graduation & Core CS Mastery
 
-[████████░░] Advanced C# & Python for Systems
+[████████░░] Advance C#, C++ & Systems Architecture
 
-[████████░░] AI / Machine Learning Implementation
+[████████░░] Scale LogiVerde & AI Route Engine
 
-[███████░░░] Cybersecurity & Infrastructure
+[███████░░░] Cybersecurity & Infrastructure Labs
 
-STATUS:
-Always evolving, building, and optimizing 🚀
+STATUS: Leveling up indefinitely ⚔️
