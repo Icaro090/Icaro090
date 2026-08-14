@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0014,50:5d1f7e,100:9d4edd&text=ICARO%20DINIZ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=System%20Awakened&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0014,50:5d1f7e,100:9d4edd&text=ICARO%20COUTINHO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=System%20Awakened&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=d77dff&center=true&vCenter=true&width=1000&lines=⚔️+SYSTEM+INITIALIZING...;🎯+AI+ENGINEER+IN+PROGRESS;⚡+FULL+STACK+DEVELOPER;🚀+IOT+%7C+FIRMWARE+%7C+BACKEND;🧠+LEVELING+UP+DAILY"/>
 
@@ -111,7 +111,7 @@ const Icaro = {
 | 🎮 **Folclore Terror** | ✅ Completed | Multiplayer horror game (Brazilian Folklore) | Game Design, Specs |
 | 📚 **SIG API Integration** | ✅ Completed | Internal SENAC systems automation | Python, API Scripts |
 | 💼 **Desafio Profissional** | ✅ Completed | Academic project on citizenship & inclusion | Academic Writing |
-| 🎬 **DARKMIND** | 🔵 Planning | AI content creation strategy (Global audience) | AI, Content Strategy |
+| 🎬 **The Modern Mind** | 🔵 Planning | AI content creation strategy (Global audience) | AI, Content Strategy |
 
 ---
 
@@ -250,7 +250,7 @@ FINAL BOSS: Production AI System Deployment
     
 [3] Content Creation Strategy
     └─ Status: 🔵 Research Phase
-    └─ Goal: Launch DARKMIND global content platform
+    └─ Goal: Launch THEMODERNMIND global content platform
     
 [4] Entrepreneurship & Side Hustle
     └─ Status: 🟡 Planning
@@ -277,7 +277,7 @@ FINAL BOSS: Production AI System Deployment
 <img src="https://img.shields.io/badge/LinkedIn-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:icaro@example.com">
+<a href="mailto:icaroguilhermecoutinho@gmail.com">
 <img src="https://img.shields.io/badge/Email-d77dff?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
