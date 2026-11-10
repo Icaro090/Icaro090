@@ -10,6 +10,7 @@
 
 ## 🔮 HUNTER SYSTEM CORE
 
+<!-- HUNTER:CORE:START -->
 ```bash
 ╔════════════════════════════════════════╗
 ║    ICARO SYSTEM v3.0 - HUNTER RANK    ║
@@ -27,6 +28,7 @@
 
 CURRENT STATUS: ASCENDING 🚀
 ```
+<!-- HUNTER:CORE:END -->
 
 ---
 
@@ -104,17 +106,25 @@ const Icaro = {
 | Quest | Status | Description | Stack |
 |-------|--------|-------------|-------|
 | 🎯 **ClassPulse** | ✅ Completed | Real-time classroom feedback system for SENAC-MT | ESP32, FastAPI, React |
-| 🌱 **Vertech** | 🔴 In Progress | Smart vertical greenhouse with IoT sensors | ESP32, Environmental Sensors, Dashboard |
+| 🌱 **Vertech** | ✅ Completed | Smart vertical greenhouse with IoT sensors | ESP32, Environmental Sensors, Dashboard |
 | 🎓 **SkillsConect** | ✅ Completed | AI-powered job recommendation platform | FastAPI, React, Ollama, LLMs |
 | 🎮 **Folclore Terror** | 🔴 In Progress | Multiplayer horror game (Brazilian Folklore) | Game Design, Specs |
-| 📚 **SIG API Integration** | ✅ Completed | Internal SENAC systems automation | Python, API Scripts |
 | 💼 **Desafio Profissional** | ✅ Completed | Academic project on citizenship & inclusion | Academic Writing |
-| 🎬 **The Modern Mind** | 🔵 Planning | AI content creation strategy (Global audience) | AI, Content Strategy |
+| 🎬 **The Modern Mind** | ✅ Completed | AI content creation strategy (Global audience) | AI, Content Strategy |
+
+---
+
+## 📜 QUEST LOG (atualizado automaticamente)
+
+<!-- HUNTER:QUESTLOG:START -->
+⏳ *Aguardando a primeira sincronização do Hunter System...*
+<!-- HUNTER:QUESTLOG:END -->
 
 ---
 
 ## 🎮 DUNGEON PROGRESSION
 
+<!-- HUNTER:PROGRESSION:START -->
 ```bash
 > System Stats Loaded
 
@@ -140,6 +150,9 @@ LEVEL: 19 [████████░░░░░░░░] 45%
 
 NEXT MILESTONE: AI Engineer Certification (+17-22 months)
 ```
+<!-- HUNTER:PROGRESSION:END -->
+
+<sub>⚙️ Level, rank e atributos calculados diariamente a partir da atividade real no GitHub — veja <a href="scripts/hunter_stats.py">scripts/hunter_stats.py</a>.</sub>
 
 ---
 
@@ -217,9 +230,9 @@ FINAL BOSS: Production AI System Deployment
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=icarodiniz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d77dff&icon_color=9d4edd"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Icaro090&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d77dff&icon_color=9d4edd"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarodiniz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d77dff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro090&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d77dff"/>
 
 </div>
 
@@ -227,7 +240,7 @@ FINAL BOSS: Production AI System Deployment
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=icarodiniz&theme=tokyonight&hide_border=true&background=0d1117&stroke=d77dff&ring=9d4edd&fire=9d4edd&currStreakLabel=d77dff"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Icaro090&theme=tokyonight&hide_border=true&background=0d1117&stroke=d77dff&ring=9d4edd&fire=9d4edd&currStreakLabel=d77dff"/>
 
 </div>
 
@@ -247,7 +260,7 @@ FINAL BOSS: Production AI System Deployment
     └─ Goal: Become proficient AI Engineer (22 months)
     
 [3] Content Creation Strategy
-    └─ Status: 🔵 Research Phase
+    └─ Status: ✅ Completed
     └─ Goal: Launch THE MODERN MIND global content platform
     
 [4] Entrepreneurship & Side Hustle
@@ -267,11 +280,11 @@ FINAL BOSS: Production AI System Deployment
 
 **Connect with the Hunter:**
 
-<a href="https://github.com/icarodiniz">
+<a href="https://github.com/Icaro090">
 <img src="https://img.shields.io/badge/GitHub-9d4edd?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/icarodiniz">
+<a href="https://www.linkedin.com/in/icaro-coutinho-391750296">
 <img src="https://img.shields.io/badge/LinkedIn-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -303,7 +316,7 @@ FINAL BOSS: Production AI System Deployment
 
 ### 📊 Hunter's Dedication
 
-<img src="https://komarev.com/ghpvc/?username=icarodiniz&style=for-the-badge&color=9d4edd"/>
+<img src="https://komarev.com/ghpvc/?username=Icaro090&style=for-the-badge&color=9d4edd"/>
 
 **Status:** Always leveling up 🚀💜
 
